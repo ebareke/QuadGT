@@ -7,8 +7,9 @@
 <div id="content">
 <h1>Introduction</h1>
 <img src="./genome-relations.png" width="360" alt="QuadGT workflow" />
+	<h1> </h1>
 <p>
-QuadGT is a software package for calling single-nucleotide variants 
+	<b>QuadGT</b> is a software package for calling single-nucleotide variants 
 in four sequenced genomes comprising a normal-tumor pair and the two parents.
 Genotypes are inferred using a joint model of parental variant frequencies, 
 <em>de novo</em> germline mutations, and somatic mutations.  
