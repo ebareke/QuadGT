@@ -3,7 +3,7 @@
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in the
-**rnaseqDegy** project and our community a harassment-free experience for
+**QuadGT** project and our community a harassment-free experience for
 everyone, regardless of age, body size, visible or invisible disability,
 ethnicity, sex characteristics, gender identity and expression, level of
 experience, education, socio-economic status, nationality, personal
@@ -57,7 +57,7 @@ This Code of Conduct applies to:
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to **Dr. Eric Bareke** (Maintainer) at:
 
-**eric.bareke@mcgill.ca**
+**eb.bioinfo@pm.me**
 
 All complaints will be reviewed and investigated promptly and fairly.
 Maintainers are obligated to respect the privacy and security of anyone who
